@@ -1,8 +1,5 @@
 """
-////////////////////////////////////////////////////////////////////////////////////////////
-// gapminderplot.py - Generates a word frequecies graph                                   //
-//                                                                                        //
-////////////////////////////////////////////////////////////////////////////////////////////
+    gapminderplot.py - Generates a word frequecies graph
 """
 
 import pandas as pd

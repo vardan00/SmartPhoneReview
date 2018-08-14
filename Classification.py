@@ -1,8 +1,6 @@
 """
-////////////////////////////////////////////////////////////////////////////////////////////
-// Classification.py - This file manipulates the tweets data into      					  //
-//                     a format suitable to  generate plots.           					  //
-////////////////////////////////////////////////////////////////////////////////////////////
+	Classification.py - This file manipulates the tweets data into      					  
+	                    a format suitable to  generate plots.           					  
 """
 
 import pickle, os, twitterFetchTweets, gapminderplot, re

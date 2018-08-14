@@ -1,8 +1,6 @@
 """
-////////////////////////////////////////////////////////////////////////////////////////////
-// DonutPlot.py - This file provides necessary functions to create a                      //
-//                donut plot along with its animation.                                    //
-////////////////////////////////////////////////////////////////////////////////////////////
+    DonutPlot.py - This file provides necessary functions to create a                      
+                   donut plot along with its animation.                                    
 """
 
 from random import random

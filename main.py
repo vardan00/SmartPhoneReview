@@ -1,8 +1,6 @@
 """
-////////////////////////////////////////////////////////////////////////////////////////////
-// main.py - This is the serveer file. It contains functions to                           //
-//              respond to user inputs.                                                   //
-////////////////////////////////////////////////////////////////////////////////////////////
+    main.py - This is the serveer file. It contains functions to                           
+                 respond to user inputs.                                                   
 """
 import DonutPlot, BarPlot, gapminderplot, pickle, twitterFetchTweets, Classification, wordCloud
 import pandas as pd

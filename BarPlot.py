@@ -1,13 +1,5 @@
 """
-////////////////////////////////////////////////////////////////////////////////////////////
-// twitterFetchTweets.py - generate a barplot                          					  //
-//                                                                     					  //
-// 											                           					  //
-// Application: SmartPhone Review: A Second Opinion from Tweets        					  //
-// Environment: google colaboratory                                    					  // 
-// Platform: online cloud                                              					  // 
-// Operating System: online cloud                                      					  //
-////////////////////////////////////////////////////////////////////////////////////////////
+	twitterFetchTweets.py - generate a barplot
 """
 
 from bokeh.io import show, output_file
